@@ -1,0 +1,8 @@
+.idea
+*.iml   #>IntelliJ doesn't directly read from pom, instead it reads from .iml file for its run.
+target  #> Trget of project
+.DS_Store
+test-output    #> screenshots, reports
+bin  #> Binary code
+.settings
+.classpath #> hiding the path to my classes
